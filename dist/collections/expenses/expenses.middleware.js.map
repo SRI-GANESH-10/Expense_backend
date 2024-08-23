@@ -1,1 +1,0 @@
-{"version":3,"file":"expenses.middleware.js","sourceRoot":"","sources":["../../../src/collections/expenses/expenses.middleware.ts"],"names":[],"mappings":";;;AAGA,MAAa,gBAAgB;IACzB,GAAG,CAAC,GAAW,EAAG,GAAY,EAAM,IAAiB;QACjD,OAAO,CAAC,GAAG,CAAC,OAAO,CAAC,CAAA;QAEpB,IAAI,EAAE,CAAC;IACX,CAAC;CAEJ;AAPD,4CAOC"}
