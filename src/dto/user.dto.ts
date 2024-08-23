@@ -3,7 +3,7 @@ export class UserDetails {
     password:string
 }
 
-export class SignUpDetails {
+export class SignUpDetails { //THIS IS A DTO
     firstName:string
     lastName:string
     email:string
